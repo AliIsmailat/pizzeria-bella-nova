@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" preserveAspectRatio="xMidYMid slice">
+  <rect width="1200" height="1500" fill="#C8301E" />
+  <circle cx="600" cy="640" r="380" fill="#FFF8EC" opacity="0.3" />
+  <circle cx="600" cy="640" r="300" fill="#A32312" opacity="0.6" />
+  <text x="600" y="1100" text-anchor="middle" font-family="sans-serif" font-size="46" fill="#FFF8EC">Platshållare</text>
+  <text x="600" y="1160" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#FFF8EC">pizza.jpg</text>
+</svg>
